@@ -1,4 +1,4 @@
-# GRIP-
+# GRIP
 WEB and Mobile App
 TASK_3
 
